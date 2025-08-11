@@ -1,4 +1,4 @@
-# Front-End Blog App
+# Blog App
 
 A responsive blog application built with React and Vite.
 
